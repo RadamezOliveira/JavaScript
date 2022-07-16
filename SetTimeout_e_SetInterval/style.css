@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+
+button{
+    padding: 30px;
+    font-size: 20px;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+
+.start{
+    background-color: green;
+}
+.stop{
+    background-color: red;
+}
+.comecar, .parar{
+    padding: 5px;
+    color: blue;
+}
